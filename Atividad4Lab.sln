@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividad4Lab", "Atividad4Lab\Atividad4Lab.csproj", "{B7341519-2E7D-4880-94C1-EAA7B04C5D62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7341519-2E7D-4880-94C1-EAA7B04C5D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7341519-2E7D-4880-94C1-EAA7B04C5D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7341519-2E7D-4880-94C1-EAA7B04C5D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7341519-2E7D-4880-94C1-EAA7B04C5D62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F833C6C-1CCB-4F38-8B7E-5B21CFBF3360}
+	EndGlobalSection
+EndGlobal
