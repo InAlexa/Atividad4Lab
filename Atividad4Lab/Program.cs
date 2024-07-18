@@ -8,25 +8,18 @@ while (cat == 0)
         Console.Clear();
         Console.WriteLine("Menú principal");
         Console.WriteLine("1. Crear Matrices");
-        Console.WriteLine("2. ");
-        Console.WriteLine("3. ");
-        Console.WriteLine("4. Juego: adivina el número.");
-        Console.WriteLine("5. Salir");
+        Console.WriteLine("2. Juego: adivina el número.");
+        Console.WriteLine("3. Salir");
         Console.WriteLine("Selecciona una de las opciones:");
         int opcionMenuPrincipal = int.Parse(Console.ReadLine());
 
         switch (opcionMenuPrincipal) // Menú principal
         {
             case 1:
-                Console.WriteLine("uno");
+                Console.WriteLine("Crear Matrices");
                 break;
+            
             case 2:
-                Console.WriteLine("dos");
-                break;
-            case 3:
-                Console.WriteLine("tres");
-                break;
-            case 4:
                 int cat4 = 0;
                 while (cat4 == 0)
                 {
@@ -121,7 +114,7 @@ while (cat == 0)
                     }
                 }
                 break;  
-            case 5:
+            case 3:
                 Console.WriteLine("Ha salido del programa.");
                 cat = 1;
                 break;
