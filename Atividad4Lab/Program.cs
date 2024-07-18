@@ -47,6 +47,7 @@ while (cat == 0)
     }
 }
 
+// Aqui empieza el código de la MATRIZ
 static void CrearMatrices()
 {
     int numFilas = 0;
