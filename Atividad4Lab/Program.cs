@@ -17,6 +17,7 @@ while (cat == 0)
         {
             case 1:
                 Console.WriteLine("uno");
+                CrearMatrices();
                 break;
             case 2:
                 Console.WriteLine("dos");
