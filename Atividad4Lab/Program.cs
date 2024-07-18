@@ -1,4 +1,56 @@
-﻿static void CrearMatrices()
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+static void CrearMatrices()
 {
     int numFilas = 0;
     int numColumnas = 0;
