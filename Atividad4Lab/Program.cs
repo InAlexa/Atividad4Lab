@@ -1,4 +1,3 @@
-﻿
 Console.WriteLine("Ejercicio uso de Git");
 
 int cat = 0; //variable creada para salir del menu, se cambia de valor al ingresar la opcion "salir"
@@ -47,3 +46,4 @@ while (cat == 0)
         Console.WriteLine("Ha ocurrido un error: " + ex.Message);
     }
 }
+
